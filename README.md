@@ -1,3 +1,6 @@
+## React_study
+본 프로젝트는 Web App을 React를 이용해서 완성하는 것이 목표입니다
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
